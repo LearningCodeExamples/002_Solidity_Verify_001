@@ -1,4 +1,4 @@
-# Solidity_Storage_002
+# 002_Solidity_Verify_001
 Solidity storage contract example Validate Contract function
 
 # Hardhat Project
